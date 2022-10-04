@@ -1,3 +1,7 @@
+# project with team members minercreepmc.
+
+this is build about social picture
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
